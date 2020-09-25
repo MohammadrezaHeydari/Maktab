@@ -1,7 +1,7 @@
 package Qwe;
 
 public class Wq {
-    public static void main(String[] args) {
-        ina a = 10;
+    public static <ina> void main(String[] args) {
+        int a = 10;
     }
 }
